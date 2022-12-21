@@ -1,0 +1,15 @@
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/bin/Debug/net6.0/task56
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/bin/Debug/net6.0/task56.deps.json
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/bin/Debug/net6.0/task56.runtimeconfig.json
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/bin/Debug/net6.0/task56.dll
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/bin/Debug/net6.0/ref/task56.dll
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/bin/Debug/net6.0/task56.pdb
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.csproj.AssemblyReference.cache
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.GeneratedMSBuildEditorConfig.editorconfig
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.AssemblyInfoInputs.cache
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.AssemblyInfo.cs
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.csproj.CoreCompileInputs.cache
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.dll
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/ref/task56.dll
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.pdb
+/home/natalia/Рабочий стол/c#sem8_dz/csharp_sem8_dz/task56/obj/Debug/net6.0/task56.genruntimeconfig.cache
